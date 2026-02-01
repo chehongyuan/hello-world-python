@@ -1,0 +1,12 @@
+{
+  "latitude": 35.6762,
+  "longitude": 139.6503,
+  "generationtime_ms": 0.123,
+  "utc_offset_seconds": 32400,
+  "timezone": "Asia/Tokyo",
+  "current": {
+    "time": "2025-01-15T09:00",
+    "temperature_2m": 7.6,
+    "weathercode": 2
+  }
+}
