@@ -1,6 +1,6 @@
 from datetime import date, datetime
 
-
+"""内部助手："""
 def _to_date(d):
     """内部助手：将输入转换为 `datetime.date`。
 
